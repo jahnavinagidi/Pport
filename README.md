@@ -16,7 +16,7 @@ Highlights:
 - Deployed online for recruiters and clients.
 
 Live Site:
-----------
+----------]
 ➡️ https://yourname.dev  (replace with your actual URL)
 
 Status:
