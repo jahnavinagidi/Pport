@@ -1,25 +1,40 @@
-The second iteration of my website portfolio. Used to showscase all my current and past projects in the last 12 months. 
+===========================================
+ My Portfolio Website - Version 2
+===========================================
 
-Please, do not clone this repository unless you are a recruiter. If you copy my work and try to pass it off as your own (this has happened before!), I will know. 
+Description:
+------------
+This is the second version of my personal portfolio website.  
+It showcases all my current and past projects from the last 12 months, 
+along with sections for About Me, Contact, and (soon) a Blog.
 
-<img width="1904" height="911" alt="image" src="https://github.com/user-attachments/assets/80091e91-e9ae-4b80-8639-f3a62c9b1ef7" />
+Highlights:
+-----------
+- Built using Vite (faster development & loading compared to CRA).
+- Written in TypeScript for modular, clean code.
+- Modern, professional design with responsive layout.
+- Projects section highlights real-world work and side projects.
+- Deployed online for recruiters and clients.
 
+Live Site:
+----------
+➡️ https://yourname.dev  (replace with your actual URL)
 
+Status:
+-------
+Launched ✅  
+Ongoing improvements include adding a blog section and fine-tuning UI/UX.
 
+Contact:
+--------
+LinkedIn: https://www.linkedin.com/in/yourprofile
+Email: your.email@example.com
 
-➡️ You can view it here: https://danielsteele.dev 
+Note:
+-----
+This repository is meant for recruiters and professional review.  
+Please do not clone or copy the work without permission.
 
-- This version uses Vite instead of CRA, which should reduce loading time on users and during development.
-- It looks much more professional than my current website, adhering to modern design principles.
-- The code uses TypeScript to be more modular in nature as opposed to just using code JS, which ensures a cleaner code structure.
-
--- 📌 Status --
-
-This project has launched! Updates and tweaks are being worked on, such as the blog section.
-
--- 📫 Contact -- 
-
-If you're interested in the project, feel free to connect or follow the development:
-
-Portfolio: https://danielsteele.dev
-LinkedIn: https://www.linkedin.com/in/daniel-steele-b06443198
+===========================================
+© 2025 Your Name
+===========================================
