@@ -1,6 +1,5 @@
-===========================================
+
  My Portfolio Website - Version 2
-===========================================
 
 Description:
 ------------
@@ -26,15 +25,13 @@ Launched ✅
 Ongoing improvements include adding a blog section and fine-tuning UI/UX.
 
 Contact:
---------
+
 LinkedIn: https://www.linkedin.com/in/yourprofile
 Email: your.email@example.com
 
 Note:
------
+
 This repository is meant for recruiters and professional review.  
 Please do not clone or copy the work without permission.
 
-===========================================
-© 2025 Your Name
-===========================================
+
