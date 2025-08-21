@@ -2,8 +2,8 @@ name: Deploy Vite site to GitHub Pages
 
 on:
   push:
-    branches: [main] # 👈 run every time you push to main
-  workflow_dispatch: # 👈 allow manual run too
+    branches: [main]   # ✅ Runs automatically whenever you push to main
+  workflow_dispatch:   # ✅ You can also run manually if needed
 
 permissions:
   contents: read
@@ -27,7 +27,7 @@ jobs:
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: ./dist   # 👈 this is where Vite outputs the built site
 
   deploy:
     needs: build
